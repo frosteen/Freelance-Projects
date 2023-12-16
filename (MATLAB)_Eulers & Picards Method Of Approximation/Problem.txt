@@ -1,0 +1,14 @@
+PROBLEM1:
+Find the distance made by the car if starts 10m initially and has a velocity of 60miles/hr (26.8224m/s) and ends at t = 1min(60s)
+
+0.1
+26.8224
+10
+0
+60
+
+PROBLEM2:
+Find the distance made by the car if starts 0m initially and has a velocity of 60miles/hr (26.8224m/s) and ends at t = 1min(60s)
+
+26.8224
+60
