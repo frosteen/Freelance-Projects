@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "author": "Luis Daniel Pambid",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-arduino-uno", "id": "uno", "top": 0, "left": 0, "attrs": {} },
+    {
+      "type": "wokwi-pir-motion-sensor",
+      "id": "pir1",
+      "top": -164.32,
+      "left": -48.43,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-buzzer",
+      "id": "bz1",
+      "top": 248.34,
+      "left": 87.17,
+      "attrs": { "volume": "0.1" }
+    },
+    {
+      "type": "wokwi-pir-motion-sensor",
+      "id": "pir2",
+      "top": -164.32,
+      "left": 162.31,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-pir-motion-sensor",
+      "id": "pir3",
+      "top": -164.32,
+      "left": 54.87,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-pir-motion-sensor",
+      "id": "pir4",
+      "top": -164.32,
+      "left": 264.78,
+      "attrs": {}
+    }
+  ],
+  "connections": [
+    [ "bz1:1", "uno:GND.2", "green", [ "v23", "h-48" ] ],
+    [ "bz1:2", "uno:A0", "green", [ "v9", "h128" ] ],
+    [ "pir4:OUT", "uno:4", "green", [ "v45", "h-121" ] ],
+    [ "pir2:OUT", "uno:8", "green", [ "v45", "h-27" ] ],
+    [ "pir1:VCC", "uno:5V", "red", [ "v286", "h29" ] ],
+    [ "pir1:OUT", "uno:13", "green", [ "v53", "h2" ] ],
+    [ "pir3:OUT", "uno:12", "green", [ "v45", "h40" ] ],
+    [ "pir3:GND", "pir1:GND", "black", [ "v30", "h-92" ] ],
+    [ "pir3:GND", "pir2:GND", "black", [ "v30", "h16" ] ],
+    [ "pir4:GND", "pir2:GND", "black", [ "v30", "h-97" ] ],
+    [ "pir1:VCC", "pir3:VCC", "red", [ "v16", "h53" ] ],
+    [ "pir3:VCC", "pir2:VCC", "red", [ "v16", "h106" ] ],
+    [ "pir2:VCC", "pir4:VCC", "red", [ "v16", "h87" ] ],
+    [ "pir1:GND", "uno:GND.1", "black", [ "v65", "h108" ] ]
+  ]
+}
