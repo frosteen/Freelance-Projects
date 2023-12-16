@@ -1,0 +1,36 @@
+# Don't include passwords
+**/*_pycache_*/
+**/*.vs*/
+**/*[Mm]aterials*.xlsx
+**/*[Gg][Mm][Aa][Ii][Ll]*.txt
+**/*[Gg][Mm][Aa][Ii][Ll]*.png
+**/*[Pp]assword*.txt
+**/*[Cc]redentials*.txt
+**/*[Aa]ccount*.txt
+**/*[Ww][Ii][Ff][Ii]*.txt
+**/*[Ii][Nn][Ff][Oo]*.txt
+**/*[Cc][Rr][Ee][Dd][Ss]*.txt
+**/*[Ee]mail*.txt
+**/*Google*.txt
+**/*GOMO*.txt
+**/*[Nn][Oo][Tt][Ee][Ss]*.txt
+**/*[Ff]irebase*.txt
+**/*[Ff]irebase*.json
+
+# Don't include databases
+**/*.db
+
+# Don't include large files
+**/*.MOV
+**/*.pt
+**/*.weights
+**/*.whl
+**/*.npy
+**/*.ipynb
+**/*.mp4
+**/*.exe
+
+# Don't include Sub Github Repos
+(PYTHON)_THESIS-DESIGN_American Sign Language Interpreter using an RGB-D camera and Machine Learning/From_Github/ActionDetectionforSignLanguage
+(PYTHON)_THESIS-DESIGN_American Sign Language Interpreter using an RGB-D camera and Machine Learning/From_Github/Gesture-Recognition-with-3DCNN
+(PYTHON,RPI,ANDROID APP)_ELECTRONICS-DESIGN_IOT, GSM And RFID-Based Faculty Managing System With PIR Sensor And Touch Screen Monitor/SPI-Py
