@@ -1,0 +1,10 @@
+TL082 or LF353
+(2) 1N4148
+(2) 1nF Capacitor
+5.6k Resistor 1/4W
+2k Resistor 1/4W
+8.2k Resistor 1/4W
+20k Dual Ganged
+Binding Post
+DPDT Switch
+PCB 6x4
