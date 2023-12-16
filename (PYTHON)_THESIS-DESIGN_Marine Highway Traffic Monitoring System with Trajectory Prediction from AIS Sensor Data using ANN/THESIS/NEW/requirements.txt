@@ -1,0 +1,5 @@
+Microsoft Visual C++ Build Tools
+numpy
+scipy
+sklearn
+libais
