@@ -1,0 +1,40 @@
+
+#include <XBee.h>
+#include <SoftwareSerial.h>
+
+SoftwareSerial xbee_Serial = SoftwareSerial(10,11);
+XBee xbee = XBee();
+XBeeResponse responce = XBeeResponse();
+Rx16Response rx16 = Rx16Response();
+Rx64Response rx64 = Rx64Response();
+
+int rssi = 0;
+
+
+void setup() {
+	
+	Serial.begin(57600);
+	xbee_Serial.begin(57600);
+	xbee.setSerial(xbee_Serial);
+}
+
+
+void loop() {
+	xbee.readPacket(100);
+	if (xbee.getResponse().isAvailable()) {
+		if (xbee.getResponse().getApiId() == RX_64_RESPONSE || xbee.getResponse().getApiId() == RX_16_RESPONSE) {
+			if (xbee.getResponse().getApiId() == RX_16_RESPONSE) {
+				xbee.getResponse().getRx16Response(rx16);
+				rssi = rx16.getRssi();
+				Serial.println("RX16");
+				Serial.println(rssi):
+			}
+			else {
+				xbee.getResponse().getRx64Response(rx64);
+				rssi = rx64.getRssi();
+				Serial.println("RX64");
+				Serial.println(rssi):
+			}
+		}
+	}
+}
