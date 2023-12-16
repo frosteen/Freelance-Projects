@@ -1,0 +1,4 @@
+MAIN Reference: https://www.dpin.de/nf/thermal-camera-on-linux-flir-one-pro/
+
+GEN 3 Compatible 1: https://github.com/epozzobon/flirone-v4l2
+GEN 3 Compatible 2 (BEST): https://github.com/luporl/flirone-v4l2

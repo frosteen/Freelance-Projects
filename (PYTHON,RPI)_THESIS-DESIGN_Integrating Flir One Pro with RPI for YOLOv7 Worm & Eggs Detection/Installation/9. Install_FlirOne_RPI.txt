@@ -1,0 +1,16 @@
+# Install v4l2loopback
+git clone https://github.com/umlaeute/v4l2loopback.git
+make && sudo make install
+sudo depmod -a
+
+# Install FlirOne Gen 3 Capable
+git clone https://github.com/luporl/flirone-v4l2.git
+make
+
+# to run the program
+./load_module.sh
+sudo ./flirone palettes/Iron2.raw -v 2
+
+# to view the camera, install mplayer
+sudo apt install mplayer
+mplayer tv:// -tv driver=v4l2:device=/dev/video3

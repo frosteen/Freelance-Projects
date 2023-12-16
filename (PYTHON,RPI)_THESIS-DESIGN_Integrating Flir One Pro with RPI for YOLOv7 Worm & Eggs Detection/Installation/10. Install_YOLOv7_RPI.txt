@@ -1,0 +1,15 @@
+git clone https://github.com/WongKinYiu/yolov7.git
+
+## Edit requirements.txt and comment the following:
+# opencv-python>=4.1.1
+# torch>=1.7.0,!=1.12.0
+# torchvision>=0.8.1,!=0.13.0
+# tensorboard>=2.4.1
+# ipython  # interactive notebook
+# psutil  # system utilization
+# thop  # FLOPs computation
+
+pip3 install -r requirements.txt
+
+# test inference
+python detect.py --weights yolov7.pt --conf 0.25 --img-size 640 --source inference/images/horses.jpg --no-trace
