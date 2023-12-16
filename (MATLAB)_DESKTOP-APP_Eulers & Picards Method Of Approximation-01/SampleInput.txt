@@ -1,0 +1,15 @@
+NOTES:
+	1. Eto yung mga examples
+	2. Double click lang yung .m file.
+	3. Pag run ng program sa matlab is F5.
+
+PICARDS:
+y + t + 5
+5
+
+EULERS:
+0.05
+y + t + 5
+0
+0
+1
