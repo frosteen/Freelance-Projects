@@ -1,0 +1,77 @@
+# import the necessary packages
+from threading import Thread
+
+import cv2
+import numpy as np
+
+from MediapipeHands import draw_styled_landmarks, mediapipe_detection, mp_holistic
+from ResizeImage import resize_image
+
+
+class WebcamVideoStream:
+    def __init__(
+        self,
+        src=0,
+        width=1920,
+        height=1080,
+        image_size=(32, 32),
+        name="WebcamVideoStream",
+    ):
+        # initialize properties
+        self.black_image_with_hand_frame = None
+        self.black_image_with_hand = None
+        self.frame = None
+        self.image_size = image_size
+
+        # initialize the thread name
+        self.name = name
+
+        # initialize the video camera stream and read the first frame
+        # from the stream
+        self.stream = cv2.VideoCapture(src, cv2.CAP_DSHOW)
+        self.stream.set(cv2.CAP_PROP_FRAME_WIDTH, width)
+        self.stream.set(cv2.CAP_PROP_FRAME_HEIGHT, height)
+
+        (self.grabbed, self.frame) = self.stream.read()
+
+        # initialize the variable used to indicate if the thread should
+        # be stopped
+        self.stopped = False
+
+    def start(self):
+        # start the thread to read frames from the video stream
+        t = Thread(target=self.update, name=self.name, args=())
+        t.daemon = True
+        t.start()
+        return self
+
+    def update(self):
+        # keep looping infinitely until the thread is stopped
+        with mp_holistic.Holistic(
+            min_detection_confidence=0.5, min_tracking_confidence=0.5
+        ) as holistic:
+            while True:
+                # if the thread indicator variable is set, stop the thread
+                if self.stopped:
+                    return
+
+                # otherwise, read the next frame from the stream
+                (self.grabbed, self.frame) = self.stream.read()
+
+                image, results = mediapipe_detection(self.frame, holistic)
+                black_image = np.zeros(image.shape, dtype=np.uint8)
+                draw_styled_landmarks(black_image, results)
+                black_image_with_hand = cv2.flip(black_image, 1)
+                self.black_image_with_hand_frame = black_image_with_hand.copy()
+                self.black_image_with_hand = resize_image(
+                    black_image_with_hand, self.image_size
+                )
+
+    def read(self):
+        # return the frame most recently read
+        # return self.black_image_with_hand_frame, self.black_image_with_hand
+        return cv2.flip(self.frame, 1), self.black_image_with_hand
+
+    def stop(self):
+        # indicate that the thread should be stopped
+        self.stopped = True

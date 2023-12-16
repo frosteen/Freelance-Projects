@@ -1,0 +1,136 @@
+import os
+
+import cv2
+from imutils.video.webcamvideostream import WebcamVideoStream
+import numpy as np
+from WebcamThreading import WebcamVideoStream
+from tensorflow.keras.models import load_model
+
+from MediapipeHands import draw_styled_landmarks, mediapipe_detection, mp_holistic
+from ResizeImage import resize_image
+
+gestures_path = "ASL_DATA"
+sequence_length = 30  # fps
+image_size = (32, 32)
+batch_size = 32
+
+gestures_path = os.path.join(gestures_path)
+gestures = np.array([gesture for gesture in os.listdir(gestures_path)])
+model = load_model(os.path.join("MODELS", "gesture_1.h5"))
+
+
+def prob_viz(result, gestures, input_frame):
+    output_frame = input_frame.copy()
+    for num, prob in enumerate(result):
+
+        spacing = 25
+
+        # visualize probability distribution
+        cv2.rectangle(
+            output_frame,
+            (0, 70 + num * spacing),
+            (int(prob * 100), 90 + num * spacing),
+            (0, 0, 255),
+            -1,
+        )
+
+        cv2.putText(
+            output_frame,
+            gestures[num] + " " + str(round(float(prob * 100), 2)) + "%",
+            (0, 85 + num * spacing),
+            cv2.FONT_HERSHEY_SIMPLEX,
+            0.5,
+            (0, 255, 255),
+            1,
+            cv2.LINE_AA,
+        )
+
+    return output_frame
+
+
+sequence = []
+sentence = []
+predictions = []
+threshold = 0.6
+
+cap = WebcamVideoStream(src=0, width=1920, height=1080).start()
+
+with mp_holistic.Holistic(
+    min_detection_confidence=0.5, min_tracking_confidence=0.5
+) as holistic:
+    while True:
+        frame = cap.read()
+
+        if frame is None:
+            continue
+
+        image, results = mediapipe_detection(frame, holistic)
+        black_image = np.zeros(image.shape, dtype=np.uint8)
+        draw_styled_landmarks(black_image, results)
+        black_image_with_hand = cv2.flip(black_image, 1)
+        black_image_with_hand_frame = black_image_with_hand.copy()
+        black_image_with_hand = resize_image(black_image_with_hand, image_size)
+
+        sequence.append(
+            black_image_with_hand.astype("float32") / 255
+        )  # append the normalized image array
+
+        sequence = sequence[-sequence_length:]  # get the last sequence_length frames
+
+        if len(sequence) == sequence_length:
+            res = model.predict(
+                np.expand_dims(sequence, axis=0), batch_size=batch_size
+            )[
+                0
+            ]  # predict after getting the last sequence_length frames
+
+            predictions.append(np.argmax(res))
+
+            if np.unique(predictions[-10:])[0] == np.argmax(
+                res
+            ):  # check if last 10 predictions are all same (for stability)
+                if (
+                    res[np.argmax(res)] > threshold
+                ):  # check if prediction is above threshold
+
+                    if len(sentence) > 0:
+                        if gestures[np.argmax(res)] != sentence[-1]:
+                            sentence.append(gestures[np.argmax(res)])
+                    else:
+                        sentence.append(gestures[np.argmax(res)])
+
+            if len(sentence) > 5:
+                sentence = sentence[-5:]
+
+            black_image_with_hand_frame = prob_viz(
+                res, gestures, black_image_with_hand_frame
+            )
+
+        cv2.rectangle(
+            black_image_with_hand_frame,
+            (0, 0),
+            (black_image_with_hand_frame.shape[1], 40),
+            (245, 117, 16),
+            -1,
+        )
+
+        cv2.putText(
+            black_image_with_hand_frame,
+            " ".join(sentence),
+            (3, 30),
+            cv2.FONT_HERSHEY_SIMPLEX,
+            1,
+            (255, 255, 255),
+            2,
+            cv2.LINE_AA,
+        )
+
+        cv2.namedWindow("OpenCV Feed", cv2.WINDOW_NORMAL)
+        cv2.resizeWindow("OpenCV Feed", 1280, 720)
+        cv2.imshow("OpenCV Feed", black_image_with_hand_frame)
+
+        if cv2.waitKey(1) & 0xFF == 27:
+            break
+
+    cap.stop()
+    cv2.destroyAllWindows()
