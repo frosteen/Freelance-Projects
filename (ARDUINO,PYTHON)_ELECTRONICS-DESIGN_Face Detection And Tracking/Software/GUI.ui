@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>720</width>
+    <height>720</height>
+   </rect>
+  </property>
+  <property name="font">
+   <font>
+    <pointsize>25</pointsize>
+   </font>
+  </property>
+  <property name="windowTitle">
+   <string>Camera Tracker</string>
+  </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>assets/Icon.png</normaloff>assets/Icon.png</iconset>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">font: 25pt &quot;MS Shell Dlg 2&quot;;</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QLabel" name="labelCam">
+    <property name="geometry">
+     <rect>
+      <x>110</x>
+      <y>50</y>
+      <width>500</width>
+      <height>500</height>
+     </rect>
+    </property>
+    <property name="frameShape">
+     <enum>QFrame::WinPanel</enum>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>assets/blankhead.jpg</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButtonStop">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>570</y>
+      <width>161</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>MS Shell Dlg 2</family>
+      <pointsize>25</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(118, 118, 118);
+color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>OFF</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButtonTrack">
+    <property name="geometry">
+     <rect>
+      <x>370</x>
+      <y>570</y>
+      <width>161</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>MS Shell Dlg 2</family>
+      <pointsize>25</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(118, 118, 118);
+color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>ON</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButtonCapture">
+    <property name="geometry">
+     <rect>
+      <x>200</x>
+      <y>640</y>
+      <width>331</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>MS Shell Dlg 2</family>
+      <pointsize>25</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(118, 118, 118);
+color: rgb(255, 255, 255);</string>
+    </property>
+    <property name="text">
+     <string>CAPTURE</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelStatus">
+    <property name="geometry">
+     <rect>
+      <x>110</x>
+      <y>10</y>
+      <width>501</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>MS Shell Dlg 2</family>
+      <pointsize>15</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 15pt &quot;MS Shell Dlg 2&quot;;
+color: rgb(255, 0, 0);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <widget class="QLabel" name="bg">
+    <property name="geometry">
+     <rect>
+      <x>-380</x>
+      <y>0</y>
+      <width>1500</width>
+      <height>720</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>MS Shell Dlg 2</family>
+      <pointsize>15</pointsize>
+      <weight>50</weight>
+      <italic>false</italic>
+      <bold>false</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 15pt &quot;MS Shell Dlg 2&quot;;
+color: rgb(255, 0, 0);</string>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+    <property name="pixmap">
+     <pixmap>assets/bg.png</pixmap>
+    </property>
+    <property name="scaledContents">
+     <bool>true</bool>
+    </property>
+    <property name="alignment">
+     <set>Qt::AlignCenter</set>
+    </property>
+   </widget>
+   <zorder>bg</zorder>
+   <zorder>labelCam</zorder>
+   <zorder>pushButtonStop</zorder>
+   <zorder>pushButtonTrack</zorder>
+   <zorder>pushButtonCapture</zorder>
+   <zorder>labelStatus</zorder>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
