@@ -1,0 +1,65 @@
+{% extends "base.html" %} {%block head%}Inventory Stocking Counter{%endblock%}
+{% block content %}
+<div class="container mw-100" style="width: 600px">
+  <div class="row justify-content-center">
+    <h1 class="m-2">Inventory Stocking Counter</h1>
+  </div>
+
+  <div class="row justify-content-center">
+    <img
+      class="rounded border m-2"
+      width="100%"
+      src="{{ url_for('video_feed') }}"
+    />
+  </div>
+
+  <div class="row justify-content-center">
+    <button id="capture" class="btn btn-info col-md-5 m-2" role="button">
+      Capture
+    </button>
+    <button id="record" type="button" class="btn btn-info col-md-5 m-2">
+      Record
+    </button>
+  </div>
+</div>
+{% endblock %} {% block javascript %}
+<script>
+  $(document).ready(function () {
+    let is_record = false;
+
+    // Capture Button Clicked
+    $("#capture").click(function () {
+      $.get("{{ url_for('capture') }}");
+    });
+
+    // Record Button Clicked
+    $("#record").click(function () {
+      if (is_record == false) {
+        $.post(
+          "{{ url_for('record') }}",
+          { request_recording: "True" },
+          function (response) {
+            if (response.is_recording == "True") {
+              $("#record").text("Stop");
+              is_record = true;
+            } else {
+              alert("Someone is recording. Please wait...");
+            }
+          }
+        );
+      } else {
+        $.post(
+          "{{ url_for('record') }}",
+          { request_recording: "False" },
+          function (response) {
+            if (response.is_recording == "False") {
+              $("#record").text("Record");
+              is_record = false;
+            }
+          }
+        );
+      }
+    });
+  });
+</script>
+{% endblock %}
