@@ -1,0 +1,24 @@
+DIMENSIONS
+-6in x8in
+
+DISPLAY
+-LCD TFT 3.2
+
+WEIGHT
+-
+
+BLUETOOTH
+-Bluetooth V2.0+EDR (Enhanced Data Rate) 3Mbps Modulation
+
+BATTERY
+-3.7V 2400mAh Lithium 71x19x34mm
+
+TEMPERATURE
+-
+
+CHARGING
+-Polycrystalline Solar Panel(9V 220MA)
+-Mini USB
+
+COMPATIBLE
+-Android Compatible

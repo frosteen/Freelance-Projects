@@ -1,0 +1,6 @@
+RGB Matrix
+Arduino Nano
+Solar Panel
+Bluetooth Module
+Charger Module
+Case
