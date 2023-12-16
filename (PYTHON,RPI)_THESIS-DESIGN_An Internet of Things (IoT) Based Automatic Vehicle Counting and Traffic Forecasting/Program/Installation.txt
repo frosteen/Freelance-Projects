@@ -1,0 +1,6 @@
+1. Install Python 3.7.9: https://www.python.org/downloads/release/python-379/
+2. Install Visual Studio Community: https://visualstudio.microsoft.com/downloads/
+2. Install CUDA: https://developer.nvidia.com/cuda-zone
+3. Install PyTorch with CUDA: https://pytorch.org/get-started/locally/
+4. pip install -r https://raw.githubusercontent.com/ultralytics/yolov5/master/requirements.txt
+5. Run VehicleCounter.py
