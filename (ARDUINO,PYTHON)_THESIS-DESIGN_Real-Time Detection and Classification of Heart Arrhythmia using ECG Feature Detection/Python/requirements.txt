@@ -1,0 +1,7 @@
+neurokit2
+pyqt5
+matplotlib
+pandas
+numpy
+pyserial
+requests

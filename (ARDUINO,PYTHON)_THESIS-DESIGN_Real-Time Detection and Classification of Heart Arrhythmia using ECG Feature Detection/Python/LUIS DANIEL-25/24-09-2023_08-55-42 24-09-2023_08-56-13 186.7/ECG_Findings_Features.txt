@@ -1,0 +1,9 @@
+Findings:
+Heart Rate:86.6972
+P Peak Ave:0.1353
+Q Peak Ave:-0.1262
+QRS Comp Int:0.1159
+R-R Interval:0.6923
+T Peak Ave:0.1811
+ST Interval:0.2183
+QS Interval:0.1159
