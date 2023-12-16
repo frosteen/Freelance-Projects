@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>false</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="QuestionScreen\QuestionScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="3 Main Forms\HomeScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="3 Main Forms\LessonScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="QuestionScreen\QuestionCard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Custom\Button.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Custom\CopyPaste.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarter.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Arithmetic Sequence\Lesson 3\TsfntPage1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Arithmetic Sequence\Lesson 3\TsfntPage3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Arithmetic Sequence\Lesson 3\TsfntPage4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Arithmetic Sequence\Lesson 3\TsfntPage5.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Arithmetic Sequence\Lesson 3\TsfntPage6.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Arithmetic Sequence\Lesson 3\TsfntPage7.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Arithmetic Sequence\Lesson 3\TsfntPage8.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Arithmetic Sequence\Lesson 3\TsnftPage2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Arithmetic Sequence\Lesson1\ASPage1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Arithmetic Sequence\Lesson1\ASPage2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Arithmetic Sequence\Lesson1\ASPage3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Arithmetic Sequence\Lesson1\ASPage4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Arithmetic Sequence\Lesson1\ASPage5.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Arithmetic Sequence\Lesson2\TntasPage1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Arithmetic Sequence\Lesson2\TntasPage2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Arithmetic Sequence\Lesson2\TntasPage3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Arithmetic Sequence\Lesson2\TntasPage4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Arithmetic Sequence\Lesson2\TntasPage5.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Arithmetic Sequence\Lesson2\TntasPage6.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Arithmetic Sequence\ArithmeticMain.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Geometric Sequence\GeometricSequenceMain.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Geometric Sequence\Lesson1\GS1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Geometric Sequence\Lesson1\GS2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Geometric Sequence\Lesson1\GS3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Geometric Sequence\Lesson1\GS4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Geometric Sequence\Lesson1\GS5.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Geometric Sequence\Lesson2\Tntgs1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Geometric Sequence\Lesson2\Tntgs2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Geometric Sequence\Lesson2\Tntgs3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Geometric Sequence\Lesson2\Tntgs4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Geometric Sequence\Lesson2\Tntgs5.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Geometric Sequence\Lesson2\Tntgs6.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Geometric Sequence\Lesson3\tsftgs1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Geometric Sequence\Lesson3\tsftgs2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Geometric Sequence\Lesson3\tsftgs3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Geometric Sequence\Lesson3\tsftgs4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Geometric Sequence\Lesson3\tsftgs5.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Geometric Sequence\Lesson3\tsftgs6.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Polynomials\Lesson1\IEP1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Polynomials\Lesson1\IEP2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Polynomials\Lesson1\IEP3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Polynomials\Lesson1\IEP4.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Polynomials\Polynomialsmain.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Sequence and Series\Lesson 3\FtntSequence.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Sequence and Series\Lesson 3\FtntSequence2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Sequence and Series\Lesson 3\FtntSequence3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Sequence and Series\Lesson1\Sequence1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Sequence and Series\Lesson1\Sequence2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Sequence and Series\Lesson1\Sequence3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Sequence and Series\Lesson2\TermSequence1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Sequence and Series\Lesson2\TermSequence2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Sequence and Series\Lesson2\TermSequence3.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Lessons\FirstQuarterLessons\Sequence and Series\SequenceAndSeriesMain.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="resource\UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Searchbar\Item.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Searchbar\Searchbar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Searchbar\SearchScreen.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

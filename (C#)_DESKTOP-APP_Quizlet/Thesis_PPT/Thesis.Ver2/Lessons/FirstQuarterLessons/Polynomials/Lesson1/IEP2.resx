@@ -1,0 +1,163 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="buttonNext.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAXFJREFUWEft
+        lTtLxEAUhaPiq7AWLWxFxEJLEbGxiIVdIG9iioCNIFhZpVLBHyDifxBBi62tbcTCwsLWUrBSdNczeAyS
+        vYFVJ4NIPvjYJXNnzs3MJms1NPwLkiQZ4VfzBEFwAZ/DMDy0bXuYl82B8DbsKNHENZzmkBk+w7/46Pv+
+        GofrR2hA2UYT2yypFyG8EMdxwDJ95Hne73neOJxFwIoUXHKfU3sjTdMxbN8yjBCwiwWOoPql38AH+Aal
+        oEq/tROYcF5eQIfqZhhRjeu6kyguHivdYlc3GSWDLleliRp9hXOM68ZAAx3s8jzjuonjeEqapEscwQmj
+        qkHhVXmiJs+yLBtkTDU4hkUUn8I7+MTJv7X14z8qx3GG1IsniqIZfC6hwXW4ge3cwcJ7pSDJFtYY5XL6
+        EQIL0egxwgdYWg9SsBLhOYb7PqpqRAh/wfFscbh+SuH3uPMFDpkBobcMv0T4BC+bQ4Wqp6OnZ7yh4e9h
+        We+S4S+svHBkcgAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="buttonBack.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAXdJREFUWEft
+        lr8vxGAYx3uIBDFiECNWg83SIGEzNen119Chw5mNkm4SthvY2KziVpvl7P4Ai8lkESGUT+U5edN7j0Nb
+        uaSf5JP22ud5v29/n1FRMbAEQTAbRdG4/CwP3/cnXNc9xTe8kM3lwFEvEHot4amJ7Coex3G2CLxXwj+U
+        3cXieV5MWJINT5WSYojjeIiQZjZUVUrzx7KsYU77sS5UlZp1bsxllvP0TOGoDPF75MhPsmE/8AFvsM3l
+        a7E8wkb66ErEl9RoOqRBN/BfbUtGb+SG0zXnYr1en5GobghfpEh7t+foisR1Iy+al0xD3q5JnB4KGpmG
+        PE14YqYlqjdcil1Ncx6eS8T3MIkDzQD9+Ii3eMW74Yxlk7F2cDMMw0kZvi9qNO+jLuRTTukqQUu2bc8V
+        8nkmZBtf1VBVKSsWjpAs91kN7iglxcMkNriOd/82gZT0XU7opTKB8v6QdDBNc4TgPXzijLRkc/nw2R2T
+        1YqKQcYw3gFPNScaT0UVKQAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>     The expression x² x + 6 and 2x – 10 are examples of open phrases. In the open phrase 2x – 10, x is a variable and 10 is a constant. Another term for open phrase is algebraic expression. It is an expression which consists of numbers, variables and grouping and operation symbols.
+
+     The parts of an algebraic expression separated by plus or minus signs are called terms. A term may be an addend or a subtrahend. It is made up of numerical and literal coefficients. For example, in the expression 5x, 5 is the numerical coefficient while x is the literal coefficient. The numerical coefficient, often simply called coefficient, is the number in a term. The literal coefficient, on the other hand, is the variable in a term, represented by a letter and its exponent. In the expression 4y⁷ the numerical coefficient is 4 while the literal coefficient is y⁷
+
+     The algebraic expression 8x³ + x² – 3x + 4 contains four terms.
+
+     The first term 8x³ has 8 as its numerical coefficient and x3 as its literal coefficient. The second term x2 has x2 as its literal coefficient. If a term has no numerical coefficient before it, the numerical coefficient is understood to be 1 or –1. This means that the second term’s numerical coefficient is 1. The third term may be renamed as + (–3x). Its numerical coefficient is –3 and its literal coefficient is x. The fourth term, 4, is called a constant term. Any term that has no variable or no literal coefficient is called a constant.</value>
+  </data>
+  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+        B5omsyhRHgzQAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>     Polynomials have several uses. For example, they are used to compute for areas and interest. If you have an account with a bank and its interest is expressed as 8x⁴ + 5x³ – x² + 56, would you know how much interest you should get from the bank? Polynomials are also used in expressing the speed and acceleration of objects in motion. If the acceleration of an object is x² – 16, would you be able to compute for its acceleration? To solve these and similar problems, you need to understand what polynomials are first and know how to perform operations on them.
+
+     After studying this lesson, you should be able to:
+
+          ♦ define algebraic expressions and other related terms;
+
+          ♦ find the degree of a polynomial; and
+
+          ♦ evaluate an algebraic expression.</value>
+  </data>
+</root>

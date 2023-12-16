@@ -1,0 +1,281 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="buttonBack.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAXdJREFUWEft
+        lr8vxGAYx3uIBDFiECNWg83SIGEzNen119Chw5mNkm4SthvY2KziVpvl7P4Ai8lkESGUT+U5edN7j0Nb
+        uaSf5JP22ud5v29/n1FRMbAEQTAbRdG4/CwP3/cnXNc9xTe8kM3lwFEvEHot4amJ7Coex3G2CLxXwj+U
+        3cXieV5MWJINT5WSYojjeIiQZjZUVUrzx7KsYU77sS5UlZp1bsxllvP0TOGoDPF75MhPsmE/8AFvsM3l
+        a7E8wkb66ErEl9RoOqRBN/BfbUtGb+SG0zXnYr1en5GobghfpEh7t+foisR1Iy+al0xD3q5JnB4KGpmG
+        PE14YqYlqjdcil1Ncx6eS8T3MIkDzQD9+Ii3eMW74Yxlk7F2cDMMw0kZvi9qNO+jLuRTTukqQUu2bc8V
+        8nkmZBtf1VBVKSsWjpAs91kN7iglxcMkNriOd/82gZT0XU7opTKB8v6QdDBNc4TgPXzijLRkc/nw2R2T
+        1YqKQcYw3gFPNScaT0UVKQAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="buttonNext.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAXFJREFUWEft
+        lTtLxEAUhaPiq7AWLWxFxEJLEbGxiIVdIG9iioCNIFhZpVLBHyDifxBBi62tbcTCwsLWUrBSdNczeAyS
+        vYFVJ4NIPvjYJXNnzs3MJms1NPwLkiQZ4VfzBEFwAZ/DMDy0bXuYl82B8DbsKNHENZzmkBk+w7/46Pv+
+        GofrR2hA2UYT2yypFyG8EMdxwDJ95Hne73neOJxFwIoUXHKfU3sjTdMxbN8yjBCwiwWOoPql38AH+Aal
+        oEq/tROYcF5eQIfqZhhRjeu6kyguHivdYlc3GSWDLleliRp9hXOM68ZAAx3s8jzjuonjeEqapEscwQmj
+        qkHhVXmiJs+yLBtkTDU4hkUUn8I7+MTJv7X14z8qx3GG1IsniqIZfC6hwXW4ge3cwcJ7pSDJFtYY5XL6
+        EQIL0egxwgdYWg9SsBLhOYb7PqpqRAh/wfFscbh+SuH3uPMFDpkBobcMv0T4BC+bQ4Wqp6OnZ7yh4e9h
+        We+S4S+svHBkcgAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="pictureBox2.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="label1.Text" xml:space="preserve">
+    <value>♦ To solve for the nth term in an arithmentic sequence, we use the formula:
+
+                    an = a1 + (n–1)d where an = nth term
+
+                    a1 = 1st term
+
+                    n = number of terms
+
+                    d = common difference
+
+♦ We follow the following steps in using the equation above:
+
+               STEP 1 Find the common difference.
+
+               STEP 2 Determine the 1st term in the given arithmetic sequence.
+
+               STEP 3 Find the symbol for the unknown term in the sequence.
+
+               STEP 4 Write the equation for the unknown term in the sequence.
+
+               STEP 5 Substitute the values in the equation and solve for the result.</value>
+  </data>
+  <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        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
+</value>
+  </data>
+  <data name="label2.Text" xml:space="preserve">
+    <value>This is the sixth term, right? But you are multiplying d five times. And 5 is one less than 6 or 6 – 1 = 5.
+
+Let’s try another term:      a7 = a1 + 6d
+So, we can write:             a7 = a1 + (7– 1) d
+
+For the rest of the terms, we can also write them as:
+
+                                        a8 = a1 + (8 – 1) d
+                                        a9 = a1 + (9 – 1) d
+                                       a10 = a1 + (10 – 1) d
+
+Now, suppose we want to find the nth term (n designates any number in the term), our nth term would be:
+                
+                                        an = a1 + (n – 1) d
+
+This now becomes our guide or rule in finding any term in an arithmetic sequence for as long as you have already determined d, or the common difference.
+
+This is also known as the formula for finding the nth term in an arithmetic sequence.</value>
+  </data>
+</root>

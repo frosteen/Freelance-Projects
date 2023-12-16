@@ -1,0 +1,154 @@
+D:\VisualStudio_Project\Thesis.Ver2\bin\Debug\netcoreapp3.1\Thesis.Ver2.exe
+D:\VisualStudio_Project\Thesis.Ver2\bin\Debug\netcoreapp3.1\Thesis.Ver2.deps.json
+D:\VisualStudio_Project\Thesis.Ver2\bin\Debug\netcoreapp3.1\Thesis.Ver2.runtimeconfig.json
+D:\VisualStudio_Project\Thesis.Ver2\bin\Debug\netcoreapp3.1\Thesis.Ver2.runtimeconfig.dev.json
+D:\VisualStudio_Project\Thesis.Ver2\bin\Debug\netcoreapp3.1\Thesis.Ver2.dll
+D:\VisualStudio_Project\Thesis.Ver2\bin\Debug\netcoreapp3.1\Thesis.Ver2.pdb
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.csproj.AssemblyReference.cache
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Form1.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.csproj.GenerateResource.cache
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.AssemblyInfoInputs.cache
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.AssemblyInfo.cs
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.csproj.CoreCompileInputs.cache
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.dll
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.pdb
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.genruntimeconfig.cache
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Properties.Resources.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2._3_Main_Forms.HomeScreen.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2._3_Main_Forms.LessonScreen.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2._3_Main_Forms.ChallengeScreen.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarter.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson1.ASPage1.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson1.ASPage2.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson1.ASPage3.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson1.ASPage4.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson1.ASPage5.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson2.TntasPage1.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson2.TntasPage2.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson2.TntasPage3.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson2.TntasPage4.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson2.TntasPage5.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson2.TntasPage6.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson_3.TsfntPage1.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson_3.TsnftPage2.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson_3.TsfntPage3.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson_3.TsfntPage4.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson_3.TsfntPage5.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson_3.TsfntPage6.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson_3.TsfntPage7.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson_3.TsfntPage8.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Arithmetic_Sequence.ArithmeticMain.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Sequence_and_Series.SequenceAndSeriesMain.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Sequence_and_Series.Lesson1.Sequence1.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Sequence_and_Series.Lesson1.Sequence2.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Sequence_and_Series.Lesson1.Sequence3.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Sequence_and_Series.Lesson2.TermSequence1.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Sequence_and_Series.Lesson2.TermSequence2.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Sequence_and_Series.Lesson2.TermSequence3.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Sequence_and_Series.Lesson_3.FtntSequence.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Sequence_and_Series.Lesson_3.FtntSequence2.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Sequence_and_Series.Lesson_3.FtntSequence3.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.GeometricSequenceMain.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson1.GS1.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson1.GS2.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson1.GS3.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson1.GS4.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson1.GS5.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson2.Tntgs1.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson2.Tntgs2.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson2.tntgs3.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson2.Tntgs4.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson2.Tntgs5.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson2.Tntgs6.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson3.tsftgs1.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson3.tsftgs2.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson3.tsftgs3.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson3.tsftgs4.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson3.tsftgs5.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson3.tsftgs6.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Polynomials.Lesson1.IEP1.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Polynomials.Lesson1.IEP2.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Polynomials.Polynomialsmain.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Polynomials.Lesson1.IEP4.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Polynomials.Lesson1.IEP3.resources
+D:\VisualStudio_Project\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Custom.CopyPaste.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\bin\Debug\netcoreapp3.1\Thesis.Ver2.exe
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\bin\Debug\netcoreapp3.1\Thesis.Ver2.deps.json
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\bin\Debug\netcoreapp3.1\Thesis.Ver2.runtimeconfig.json
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\bin\Debug\netcoreapp3.1\Thesis.Ver2.runtimeconfig.dev.json
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\bin\Debug\netcoreapp3.1\Thesis.Ver2.dll
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\bin\Debug\netcoreapp3.1\Thesis.Ver2.pdb
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2._3_Main_Forms.HomeScreen.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2._3_Main_Forms.LessonScreen.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Custom.CopyPaste.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Form1.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarter.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Arithmetic_Sequence.ArithmeticMain.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson_3.TsfntPage1.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson_3.TsfntPage3.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson_3.TsfntPage4.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson_3.TsfntPage5.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson_3.TsfntPage6.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson_3.TsfntPage7.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson_3.TsfntPage8.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson_3.TsnftPage2.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson1.ASPage1.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson1.ASPage2.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson1.ASPage3.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson1.ASPage4.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson1.ASPage5.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson2.TntasPage1.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson2.TntasPage2.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson2.TntasPage3.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson2.TntasPage4.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson2.TntasPage5.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Lesson2.TntasPage6.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.GeometricSequenceMain.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson1.GS1.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson1.GS2.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson1.GS3.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson1.GS4.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson1.GS5.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson2.Tntgs1.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson2.Tntgs2.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson2.Tntgs3.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson2.Tntgs4.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson2.Tntgs5.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson2.Tntgs6.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson3.tsftgs1.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson3.tsftgs2.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson3.tsftgs3.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson3.tsftgs4.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson3.tsftgs5.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Geometric_Sequence.Lesson3.tsftgs6.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Polynomials.Lesson1.IEP1.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Polynomials.Lesson1.IEP2.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Polynomials.Lesson1.IEP3.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Polynomials.Lesson1.IEP4.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Polynomials.Polynomialsmain.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Sequence_and_Series.Lesson_3.FtntSequence.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Sequence_and_Series.Lesson_3.FtntSequence2.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Sequence_and_Series.Lesson_3.FtntSequence3.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Sequence_and_Series.Lesson1.Sequence1.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Sequence_and_Series.Lesson1.Sequence2.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Sequence_and_Series.Lesson1.Sequence3.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Sequence_and_Series.Lesson2.TermSequence1.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Sequence_and_Series.Lesson2.TermSequence2.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Sequence_and_Series.Lesson2.TermSequence3.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Lessons.FirstQuarterLessons.Sequence_and_Series.SequenceAndSeriesMain.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Properties.Resources.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.csproj.GenerateResource.cache
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.AssemblyInfoInputs.cache
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.AssemblyInfo.cs
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.csproj.CoreCompileInputs.cache
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.dll
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.pdb
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.genruntimeconfig.cache
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.resource.UserControl1.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Searchbar.Searchbar.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Searchbar.Item.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.Searchbar.SearchScreen.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.QuestionScreen.QuestionCard.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.QuestionScreen.QuestionScreen.resources
+C:\Users\Luis Daniel Pambid\OneDrive - Mapúa University\Freelance\Projects\(C#)_Quizlet_Joseph Rex Pastrana, Samson Mervin\Thesis_PPT\Thesis.Ver2\obj\Debug\netcoreapp3.1\Thesis.Ver2.csproj.AssemblyReference.cache
