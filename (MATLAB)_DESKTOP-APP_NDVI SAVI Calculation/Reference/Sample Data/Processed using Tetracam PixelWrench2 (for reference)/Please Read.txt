@@ -1,0 +1,23 @@
+In the software PixelWrench2, these RAW files are imported and
+then converted into Multipage TIF file (simply Multi-TIFF).
+
+Multi-TIFF are overlayed TIF image conversions of those initially
+RAW images. You can see individual TIF in the folder named 'Single TIF'.
+
+This Multi-TIFF image was then false-colored, meaning the color bands
+are shifted. From RGB to NRG. 
+
+Lastly, NDVI was mapped and so the NDVI image was produced. 
+
+NDVI = (NIR-R)/(NIR+R)
+
+
+
+######################################################################
+It really is easier to use the software because all you need to do is
+just calibrate it. One click and you'll get the result. 
+
+But the goal is to make a Matlab program that can also create NDVI and
+SAVI map, and obtain vegetation indices (the values) per pixel, per 
+image and per plant (that's why edge-detection is also needed). 
+#####################################################################

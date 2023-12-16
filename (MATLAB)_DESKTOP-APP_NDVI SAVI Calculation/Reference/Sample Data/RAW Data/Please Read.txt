@@ -1,0 +1,7 @@
+These RAW files are all the same image but are filtered by band using MCA6 camera.
+
+If I'm not mistaken:
+	TC0 - Near-Infrared band
+	TC1 - Red band
+	TC2 - Green band
+	TC3 - Blue band
