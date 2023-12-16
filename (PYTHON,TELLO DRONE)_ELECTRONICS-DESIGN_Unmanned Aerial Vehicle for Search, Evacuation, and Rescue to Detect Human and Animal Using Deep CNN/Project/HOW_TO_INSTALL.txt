@@ -1,0 +1,7 @@
+1. Type 'cmd' in path browser
+2. C:\Users\jewel\Desktop\THESIS_MAIN>pip install -r requirements.txt (needs internet)
+3. Type 'cmd' in path browser
+4. git clone https://github.com/ultralytics/yolov5 (needs internet)
+5. pip install -r https://raw.githubusercontent.com/ultralytics/yolov5/master/requirements.txt (needs internet)
+6. Run "~OpenCV+YOLOV5_Test.py" for testing
+7. Run "Main.py" to run the main program (must be connected to tello via wifi)
