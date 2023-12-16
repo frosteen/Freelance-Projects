@@ -1,0 +1,4 @@
+pip3 install qrcode
+pip3 install Pillow
+sudo apt-get install python-qt4
+pip3 install pyzbar
