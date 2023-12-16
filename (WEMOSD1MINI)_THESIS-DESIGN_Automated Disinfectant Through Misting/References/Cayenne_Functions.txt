@@ -1,0 +1,2 @@
+Cayenne.virtualWrite(0, millis());
+Cayenne.virtualWrite(3, 50, TYPE_PROXIMITY, UNIT_CENTIMETER);
