@@ -1,0 +1,3 @@
+arduinoDevice = serialport("COM5",9600)
+readline(arduinoDevice)
+writeline(arduinoDevice,"Hello, world!")
