@@ -1,0 +1,44 @@
+C:\Users\PAMBID\Desktop\SIDELINE\NIKKA MATIAS\Template\bin\Debug\Traffic Counter.exe.config
+C:\Users\PAMBID\Desktop\SIDELINE\NIKKA MATIAS\Template\bin\Debug\Traffic Counter.exe
+C:\Users\PAMBID\Desktop\SIDELINE\NIKKA MATIAS\Template\bin\Debug\Traffic Counter.pdb
+C:\Users\PAMBID\Desktop\SIDELINE\NIKKA MATIAS\Template\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PAMBID\Desktop\SIDELINE\NIKKA MATIAS\Template\obj\Debug\TrafficCounter.csprojAssemblyReference.cache
+C:\Users\PAMBID\Desktop\SIDELINE\NIKKA MATIAS\Template\obj\Debug\Template.MainUI.resources
+C:\Users\PAMBID\Desktop\SIDELINE\NIKKA MATIAS\Template\obj\Debug\TrafficCounter.Properties.Resources.resources
+C:\Users\PAMBID\Desktop\SIDELINE\NIKKA MATIAS\Template\obj\Debug\TrafficCounter.csproj.GenerateResource.cache
+C:\Users\PAMBID\Desktop\SIDELINE\NIKKA MATIAS\Template\obj\Debug\TrafficCounter.csproj.CoreCompileInputs.cache
+C:\Users\PAMBID\Desktop\SIDELINE\NIKKA MATIAS\Template\obj\Debug\TrafficCounter.csproj.Fody.CopyLocal.cache
+C:\Users\PAMBID\Desktop\SIDELINE\NIKKA MATIAS\Template\obj\Debug\TrafficCounter.csproj.CopyComplete
+C:\Users\PAMBID\Desktop\SIDELINE\NIKKA MATIAS\Template\obj\Debug\Traffic Counter.exe
+C:\Users\PAMBID\Desktop\SIDELINE\NIKKA MATIAS\Template\obj\Debug\Traffic Counter.pdb
+C:\Users\PAMBID\Desktop\SIDELINE\NIKKA MATIAS\Template\obj\Debug\Template.TEMPLATE.resources
+C:\Users\PAMBID\Desktop\SIDELINE\NIKKA MATIAS\GUI\Template\bin\Debug\Traffic Counter.exe.config
+C:\Users\PAMBID\Desktop\SIDELINE\NIKKA MATIAS\GUI\Template\bin\Debug\Traffic Counter.exe
+C:\Users\PAMBID\Desktop\SIDELINE\NIKKA MATIAS\GUI\Template\bin\Debug\Traffic Counter.pdb
+C:\Users\PAMBID\Desktop\SIDELINE\NIKKA MATIAS\GUI\Template\bin\Debug\Newtonsoft.Json.xml
+C:\Users\PAMBID\Desktop\SIDELINE\NIKKA MATIAS\GUI\Template\obj\Debug\TrafficCounter.csprojAssemblyReference.cache
+C:\Users\PAMBID\Desktop\SIDELINE\NIKKA MATIAS\GUI\Template\obj\Debug\Template.TEMPLATE.resources
+C:\Users\PAMBID\Desktop\SIDELINE\NIKKA MATIAS\GUI\Template\obj\Debug\Template.MainUI.resources
+C:\Users\PAMBID\Desktop\SIDELINE\NIKKA MATIAS\GUI\Template\obj\Debug\TrafficCounter.Properties.Resources.resources
+C:\Users\PAMBID\Desktop\SIDELINE\NIKKA MATIAS\GUI\Template\obj\Debug\TrafficCounter.csproj.GenerateResource.cache
+C:\Users\PAMBID\Desktop\SIDELINE\NIKKA MATIAS\GUI\Template\obj\Debug\TrafficCounter.csproj.CoreCompileInputs.cache
+C:\Users\PAMBID\Desktop\SIDELINE\NIKKA MATIAS\GUI\Template\obj\Debug\TrafficCounter.csproj.Fody.CopyLocal.cache
+C:\Users\PAMBID\Desktop\SIDELINE\NIKKA MATIAS\GUI\Template\obj\Debug\TrafficCounter.csproj.CopyComplete
+C:\Users\PAMBID\Desktop\SIDELINE\NIKKA MATIAS\GUI\Template\obj\Debug\Traffic Counter.exe
+C:\Users\PAMBID\Desktop\SIDELINE\NIKKA MATIAS\GUI\Template\obj\Debug\Traffic Counter.pdb
+C:\Users\PAMBID\Desktop\SIDELINE\NIKKA MATIAS\GUI\Template\bin\Debug\EPPlus.xml
+C:\Users\Luis Daniel Pambid\Desktop\FROM DESKTOP\SIDELINE\NIKKA MATIAS\GUI\Template\bin\Debug\Traffic Counter.exe.config
+C:\Users\Luis Daniel Pambid\Desktop\FROM DESKTOP\SIDELINE\NIKKA MATIAS\GUI\Template\bin\Debug\Traffic Counter.exe
+C:\Users\Luis Daniel Pambid\Desktop\FROM DESKTOP\SIDELINE\NIKKA MATIAS\GUI\Template\bin\Debug\Traffic Counter.pdb
+C:\Users\Luis Daniel Pambid\Desktop\FROM DESKTOP\SIDELINE\NIKKA MATIAS\GUI\Template\bin\Debug\EPPlus.xml
+C:\Users\Luis Daniel Pambid\Desktop\FROM DESKTOP\SIDELINE\NIKKA MATIAS\GUI\Template\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Luis Daniel Pambid\Desktop\FROM DESKTOP\SIDELINE\NIKKA MATIAS\GUI\Template\obj\Debug\TrafficCounter.csprojAssemblyReference.cache
+C:\Users\Luis Daniel Pambid\Desktop\FROM DESKTOP\SIDELINE\NIKKA MATIAS\GUI\Template\obj\Debug\Template.TEMPLATE.resources
+C:\Users\Luis Daniel Pambid\Desktop\FROM DESKTOP\SIDELINE\NIKKA MATIAS\GUI\Template\obj\Debug\Template.MainUI.resources
+C:\Users\Luis Daniel Pambid\Desktop\FROM DESKTOP\SIDELINE\NIKKA MATIAS\GUI\Template\obj\Debug\TrafficCounter.Properties.Resources.resources
+C:\Users\Luis Daniel Pambid\Desktop\FROM DESKTOP\SIDELINE\NIKKA MATIAS\GUI\Template\obj\Debug\TrafficCounter.csproj.GenerateResource.cache
+C:\Users\Luis Daniel Pambid\Desktop\FROM DESKTOP\SIDELINE\NIKKA MATIAS\GUI\Template\obj\Debug\TrafficCounter.csproj.CoreCompileInputs.cache
+C:\Users\Luis Daniel Pambid\Desktop\FROM DESKTOP\SIDELINE\NIKKA MATIAS\GUI\Template\obj\Debug\TrafficCounter.csproj.Fody.CopyLocal.cache
+C:\Users\Luis Daniel Pambid\Desktop\FROM DESKTOP\SIDELINE\NIKKA MATIAS\GUI\Template\obj\Debug\TrafficCounter.csproj.CopyComplete
+C:\Users\Luis Daniel Pambid\Desktop\FROM DESKTOP\SIDELINE\NIKKA MATIAS\GUI\Template\obj\Debug\Traffic Counter.exe
+C:\Users\Luis Daniel Pambid\Desktop\FROM DESKTOP\SIDELINE\NIKKA MATIAS\GUI\Template\obj\Debug\Traffic Counter.pdb
