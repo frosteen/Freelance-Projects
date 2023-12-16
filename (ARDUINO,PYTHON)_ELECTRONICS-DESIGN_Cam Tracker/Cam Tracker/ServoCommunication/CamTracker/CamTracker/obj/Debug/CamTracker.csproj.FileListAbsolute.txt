@@ -1,0 +1,34 @@
+C:\Users\luisp\Desktop\PROTOBOIZ\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\obj\Debug\CamTracker.csprojAssemblyReference.cache
+C:\Users\luisp\Desktop\PROTOBOIZ\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\obj\Debug\CamTracker.Form1.resources
+C:\Users\luisp\Desktop\PROTOBOIZ\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\obj\Debug\CamTracker.Properties.Resources.resources
+C:\Users\luisp\Desktop\PROTOBOIZ\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\obj\Debug\CamTracker.csproj.GenerateResource.cache
+C:\Users\luisp\Desktop\PROTOBOIZ\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\obj\Debug\CamTracker.csproj.CoreCompileInputs.cache
+C:\Users\luisp\Desktop\PROTOBOIZ\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\bin\Debug\Cam Tracker.exe.config
+C:\Users\luisp\Desktop\PROTOBOIZ\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\bin\Debug\Cam Tracker.exe
+C:\Users\luisp\Desktop\PROTOBOIZ\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\bin\Debug\Cam Tracker.pdb
+C:\Users\luisp\Desktop\PROTOBOIZ\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\obj\Debug\Cam Tracker.exe
+C:\Users\luisp\Desktop\PROTOBOIZ\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\obj\Debug\Cam Tracker.pdb
+C:\Users\luisp\Desktop\PROTOBOIZ\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\bin\Debug\Emgu.CV.UI.xml
+C:\Users\luisp\Desktop\PROTOBOIZ\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\obj\Debug\CamTracker.csproj.CopyComplete
+C:\Users\luisp\Desktop\PROTOBOIZ\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\bin\Debug\Emgu.CV.xml
+C:\Users\luisp\Desktop\PROTOBOIZ\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\bin\Debug\Emgu.Util.xml
+C:\Users\luisp\Desktop\PROTOBOIZ\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\bin\Debug\opencv_core220.dll
+C:\Users\luisp\Desktop\PROTOBOIZ\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\bin\Debug\opencv_imgproc220.dll
+C:\Users\luisp\Desktop\PROTOBOIZ\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\bin\Debug\cvextern.dll
+C:\Users\PAMBID\Desktop\SIDELINE\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\bin\Debug\cvextern.dll
+C:\Users\PAMBID\Desktop\SIDELINE\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\bin\Debug\opencv_core220.dll
+C:\Users\PAMBID\Desktop\SIDELINE\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\bin\Debug\opencv_imgproc220.dll
+C:\Users\PAMBID\Desktop\SIDELINE\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\bin\Debug\Cam Tracker.exe.config
+C:\Users\PAMBID\Desktop\SIDELINE\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\bin\Debug\Cam Tracker.exe
+C:\Users\PAMBID\Desktop\SIDELINE\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\bin\Debug\Cam Tracker.pdb
+C:\Users\PAMBID\Desktop\SIDELINE\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\bin\Debug\Emgu.CV.xml
+C:\Users\PAMBID\Desktop\SIDELINE\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\bin\Debug\Emgu.CV.UI.xml
+C:\Users\PAMBID\Desktop\SIDELINE\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\bin\Debug\Emgu.Util.xml
+C:\Users\PAMBID\Desktop\SIDELINE\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\obj\Debug\CamTracker.csprojAssemblyReference.cache
+C:\Users\PAMBID\Desktop\SIDELINE\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\obj\Debug\CamTracker.Form1.resources
+C:\Users\PAMBID\Desktop\SIDELINE\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\obj\Debug\CamTracker.Properties.Resources.resources
+C:\Users\PAMBID\Desktop\SIDELINE\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\obj\Debug\CamTracker.csproj.GenerateResource.cache
+C:\Users\PAMBID\Desktop\SIDELINE\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\obj\Debug\CamTracker.csproj.CoreCompileInputs.cache
+C:\Users\PAMBID\Desktop\SIDELINE\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\obj\Debug\CamTracker.csproj.CopyComplete
+C:\Users\PAMBID\Desktop\SIDELINE\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\obj\Debug\Cam Tracker.exe
+C:\Users\PAMBID\Desktop\SIDELINE\ALEX PINEDA\ServoCommunication\CamTracker\CamTracker\obj\Debug\Cam Tracker.pdb
