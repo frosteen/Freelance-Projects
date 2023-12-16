@@ -1,0 +1,5 @@
+# Python Libraries
+pip install firebase_admin
+pip install imutils
+pip install num2words
+pip install opencv-python
