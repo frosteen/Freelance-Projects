@@ -1,0 +1,6 @@
+07:42:52	 From  Jonel Supsup : question lang sir, pag ibang algo ba ginamit pwede maging enough yung available dataset?
+07:45:11	 From  Jonel Supsup : copy copy thank you po
+07:49:13	 From  Jonel Supsup : pag mag dadagdag kami dataset
+07:49:23	 From  Jonel Supsup : pwede ba namin itrain uli?
+07:49:28	 From  Jonel Supsup : or mag babago ng dataset
+07:49:41	 From  Jonel Supsup : sige po
