@@ -1,0 +1,16 @@
+EULER'S METHOD:
+Solving Eigen Value Problems (Euler's Method)
+y' + lambda * y = 0
+h: 0.1
+lambda: 1.5
+x0: 2.5
+y0: 5
+x: 3.5
+
+PICARD'S METHOD:
+Solving Eigen Value Problems (Picard's Method)
+y'' + lambda * y = 0
+lambda: 1.5
+x0: 2.5
+y0: 5
+x: 3.5
