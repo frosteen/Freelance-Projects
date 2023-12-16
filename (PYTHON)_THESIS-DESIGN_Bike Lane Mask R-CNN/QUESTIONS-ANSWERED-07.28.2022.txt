@@ -1,0 +1,85 @@
+main.py
+	*directories: CustomLibraries
+		*Detectron2.py
+		*Distance_Formula.py
+		*Draw.ph
+		*ResizeWithAspectRatio.ph
+		*__init__.py (has no code but acc to stackoverflow and kuya luis, need daw siya for older versions)
+	*settings
+		*BGR=BLUE GREEN RED
+		*Window_name(can be any. not necessarily same as video)
+		*Video_name(just directory)
+	*classes(based on pretrained libraries from COCO)
+	*global variables
+		*is_adding_regions = (boolean variable lang po para malaman if nag aadd ng region)
+		*frame = (para po accessible lahat ng mga functions yung current video frame)
+	def region_drawing_callback
+		*for drawing the line
+	def draw_detection
+		*for detecting what was drawn
+		*get centroid of each boxes(will only go red if the center of the object goes to the bike lane? yes)
+	def get_frame
+		*frame of the vehicles (read frames from video file)
+	def start
+		*starts the code
+		*if there's no drawn bike lane, will fail
+		*wait for keypress is 'enter'
+
+__init__.py
+	*needed for older versions. not necessarily needed for ours but can still keep
+
+Detectron2.py
+	*imports are from COCO dataset
+		*model_zoo = ? ("""
+Model Zoo API for Detectron2: a collection of functions to create common model architectures
+listed in `MODEL_ZOO.md <https://github.com/facebookresearch/detectron2/blob/main/MODEL_ZOO.md>`_,
+and optionally load their pre-trained weights.
+""")
+		*get_cfg = ? (Get a copy of the default config. a detectron2 CfgNode instance.)
+		*MetadataCatalog = vehicle dataset
+		*DefaultPredictor = (    """
+    Create a simple end-to-end predictor with the given config that runs on
+    single device for a single input image.
+
+    Compared to using the model directly, this class does the following additions:
+
+    1. Load checkpoint from `cfg.MODEL.WEIGHTS`.
+    2. Always take BGR image as the input and apply conversion defined by `cfg.INPUT.FORMAT`.
+    3. Apply resizing defined by `cfg.INPUT.{MIN,MAX}_SIZE_TEST`.
+    4. Take one input image and produce a single output, instead of a batch.
+
+    This is meant for simple demo purposes, so it does the above steps automatically.
+    This is not meant for benchmarks or running complicated inference logic.
+    If you'd like to do anything more complicated, please refer to its source code as
+    examples to build and use the model manually.
+
+    Attributes:
+        metadata (Metadata): the metadata of the underlying dataset, obtained from
+            cfg.DATASETS.TEST.
+
+    Examples:
+    ::
+        pred = DefaultPredictor(cfg)
+        inputs = cv2.imread("input.jpg")
+        outputs = pred(inputs)
+    """
+)
+		*Visualizer, ColorMode = for bounding box colors
+	*def __init__
+		*use_gpu=True (bale po ba laging ginagamit gpu? yes po)
+		*loads pretrained model from COCO
+	*def on_image
+		*self.model_type !="PS" (PS? can ignore this po. this is for panoptic segmentation, another type of image processing po)
+
+Distance_Formula.py
+	*def Distance_Formula
+		*for vehicles or for bike lane? (pangdetect lang po if yung center distance ng boxes is malapit na sa radius ng center circle)
+
+Draw.py
+	*def Draw_Region
+		*for drawing mode from Main.py
+
+ResizeWithAspectRatio.py
+	*def ResizeWithAspectRatio
+		*resize the boxes? (resize/rescale po yung resolution ng video for better speed default is 640x480)
+		
