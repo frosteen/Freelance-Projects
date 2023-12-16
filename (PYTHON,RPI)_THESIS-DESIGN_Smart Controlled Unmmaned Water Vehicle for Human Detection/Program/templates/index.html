@@ -1,0 +1,17 @@
+{% extends "base.html" %} {%block head%}Smart Controlled Unmmaned Water Vehicle
+for Human Detection{%endblock%} {% block content %}
+<div class="container mw-100" style="width: 800px">
+  <div class="row justify-content-center">
+    <h1 class="m-2">Ship's Camera Realtime</h1>
+  </div>
+
+  <div class="row justify-content-center">
+    <img
+      class="rounded border m-2"
+      width="100%"
+      src="{{ url_for('video_feed') }}"
+    />
+  </div>
+</div>
+
+{% endblock %}

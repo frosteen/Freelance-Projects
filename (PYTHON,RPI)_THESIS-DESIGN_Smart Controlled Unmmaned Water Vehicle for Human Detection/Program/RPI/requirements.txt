@@ -1,0 +1,3 @@
+opencv-python # image processing library
+pynmea2 # GPS decoding
+flask # Webserver
