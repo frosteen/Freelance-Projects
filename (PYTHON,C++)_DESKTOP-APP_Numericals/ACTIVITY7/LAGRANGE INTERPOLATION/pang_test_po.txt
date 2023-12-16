@@ -1,0 +1,19 @@
+ETO DAPAT SAGOT LALABAS:
+
+x^4 - 4x^3 + 7x^2 - 16x + 12 = 0
+
+DATA POINTS:
+
+X:
+1
+2
+3
+4
+5
+
+Y:
+0
+-8
+0
+60
+232
