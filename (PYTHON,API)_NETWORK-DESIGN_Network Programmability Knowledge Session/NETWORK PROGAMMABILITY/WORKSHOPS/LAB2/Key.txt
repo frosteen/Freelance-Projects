@@ -1,0 +1,2 @@
+API KEY OF GEOCODING API:
+https://console.developers.google.com/apis/credentials/key/9e7b6a6e-7b4c-444e-a1ce-f3fb7178d476?project=luistrinalance
