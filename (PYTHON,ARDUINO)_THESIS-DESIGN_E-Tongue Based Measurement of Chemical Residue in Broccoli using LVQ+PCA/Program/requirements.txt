@@ -1,0 +1,7 @@
+pyqt5
+pyqt5-tools
+neupy
+pandas
+scikit-learn
+matplotlib
+pyserial

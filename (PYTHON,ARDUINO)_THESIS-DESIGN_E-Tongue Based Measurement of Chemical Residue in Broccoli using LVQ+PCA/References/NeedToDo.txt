@@ -1,0 +1,6 @@
+1. Replace New Files
+2. Install CH340 Driver
+3. Test Arduino
+4. Verify Sensors
+5. Teach them how to Train
+6. Teach them how to Use

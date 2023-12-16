@@ -1,0 +1,3 @@
+₱77 RS485 MAX485
+₱377 Arduino Nano ATmega328P
+₱88 12V 1A DC Adapter Charger Power Supply
