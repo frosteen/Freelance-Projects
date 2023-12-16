@@ -1,0 +1,10 @@
+Result=0
+Eye Evaluated=Right
+Correct=1
+Miss=4
+Name=PAMBID, LUIS DANIEL A.
+Sex=None
+Age=None
+Birthday=None
+Address=None
+Date=11-15-2019

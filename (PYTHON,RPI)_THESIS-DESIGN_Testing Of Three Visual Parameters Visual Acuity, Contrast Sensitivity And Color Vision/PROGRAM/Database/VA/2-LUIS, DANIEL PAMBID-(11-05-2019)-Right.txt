@@ -1,0 +1,11 @@
+Result=0.08
+Metric=0
+LogMAR=0
+Viewing Distance=0
+Eye Evaluated=Right
+Decimal=0
+Correct=2
+Miss=3
+Test Duration=0:00:32.198171
+Name=LUIS, DANIEL PAMBID
+Date=11-05-2019
