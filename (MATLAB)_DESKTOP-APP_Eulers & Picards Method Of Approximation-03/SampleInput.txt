@@ -1,0 +1,14 @@
+picards:
+y'' = y + 5
+2
+
+tapos if y''' naman:
+y''' = y + 5
+3
+
+EULERS:
+0.05
+y' = y + 5
+0
+0
+1
