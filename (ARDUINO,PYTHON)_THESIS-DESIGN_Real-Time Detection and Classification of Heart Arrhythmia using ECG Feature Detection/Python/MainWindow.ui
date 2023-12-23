@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>1800</width>
-    <height>750</height>
+    <height>760</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -427,7 +427,7 @@ Background</string>
     <property name="geometry">
      <rect>
       <x>10</x>
-      <y>540</y>
+      <y>550</y>
       <width>1201</width>
       <height>201</height>
      </rect>
@@ -440,7 +440,7 @@ Background</string>
       <x>1220</x>
       <y>340</y>
       <width>571</width>
-      <height>401</height>
+      <height>411</height>
      </rect>
     </property>
     <layout class="QVBoxLayout" name="verticalLayout_ECGDelineate"/>
@@ -597,6 +597,22 @@ Background</string>
       </layout>
      </item>
     </layout>
+   </widget>
+   <widget class="QPushButton" name="pushButton_ShowLegends">
+    <property name="geometry">
+     <rect>
+      <x>1041</x>
+      <y>550</y>
+      <width>171</width>
+      <height>27</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true"/>
+    </property>
+    <property name="text">
+     <string>SHOW LEGENDS</string>
+    </property>
    </widget>
   </widget>
  </widget>

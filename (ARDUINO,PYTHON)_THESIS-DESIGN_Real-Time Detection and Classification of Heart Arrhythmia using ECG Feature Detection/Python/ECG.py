@@ -100,33 +100,34 @@ class ECG:
     def ecg_filtered_plot(self, ax):
         ax.plot(self.ecg_filtered, label="ECG_Filtered")
 
-    def ecg_cleaned_plot(self, ax):
+    def ecg_cleaned_plot(self, ax, is_show_legends=False):
         ax.plot(self.ecg_clean, label="ECG_Clean")
-        for legend in self.ECG["Legends"]:
-            ax.plot(self.ECG["Peaks"][legend], "o", label=f"ECG_{legend}_Peaks")
-        for legend in self.ECG["Legends_With_Offsets_Onsets"]:
-            ax.plot(self.ECG["Onsets"][legend], "o", label=f"ECG_{legend}_Onsets")
-            ax.plot(self.ECG["Offsets"][legend], "o", label=f"ECG_{legend}_Offsets")
+        if is_show_legends:
+            for legend in self.ECG["Legends"]:
+                ax.plot(self.ECG["Peaks"][legend], "o", label=f"ECG_{legend}_Peaks")
+            for legend in self.ECG["Legends_With_Offsets_Onsets"]:
+                ax.plot(self.ECG["Onsets"][legend], "o", label=f"ECG_{legend}_Onsets")
+                ax.plot(self.ECG["Offsets"][legend], "o", label=f"ECG_{legend}_Offsets")
 
-        intervals = [self.ECG["ST"], self.ECG["QRS"]]
-        colors = ["g", "y"]
-        for interval, color in zip(intervals, colors):
-            for A, B in interval:
-                ax.fill_between(
-                    self.ecg_clean.index,
-                    self.ecg_clean.min(),
-                    self.ecg_clean.max(),
-                    where=(self.ecg_clean.index >= A) & (self.ecg_clean.index <= B),
-                    alpha=0.25,
-                    color=color,
-                )
+            intervals = [self.ECG["ST"], self.ECG["QRS"]]
+            colors = ["g", "y"]
+            for interval, color in zip(intervals, colors):
+                for A, B in interval:
+                    ax.fill_between(
+                        self.ecg_clean.index,
+                        self.ecg_clean.min(),
+                        self.ecg_clean.max(),
+                        where=(self.ecg_clean.index >= A) & (self.ecg_clean.index <= B),
+                        alpha=0.25,
+                        color=color,
+                    )
 
-        # Shrink current axis by 20%
-        box = ax.get_position()
-        ax.set_position([box.x0, box.y0, box.width * 0.7, box.height])
+            # Shrink current axis by 20%
+            box = ax.get_position()
+            ax.set_position([box.x0, box.y0, box.width * 0.7, box.height])
 
-        # Put a legend to the right of the current axis
-        ax.legend(loc="center left", bbox_to_anchor=(1, 0.5), ncol=2)
+            # Put a legend to the right of the current axis
+            ax.legend(loc="center left", bbox_to_anchor=(1, 0.5), ncol=2)
 
     def ecg_delineate_plot(self, ax):
         ecg_delineate_plot(

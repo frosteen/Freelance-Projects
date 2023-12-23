@@ -54,6 +54,10 @@ class MainWindow(Window):
         self.PAPER_SPEED = 25  # mm/s
         self.BAUDRATE = 9600
 
+        # INITIALIZE
+        self.is_show_legends = False
+        self.pushButton_ShowLegends.hide()
+
         # BUTTONS
         self.pushButton_Input.clicked.connect(self.pushButton_Input_Clicked)
         self.pushButton_Start.clicked.connect(self.pushButton_Start_Clicked)
@@ -64,6 +68,7 @@ class MainWindow(Window):
         self.pushButton_IndexConfirm.clicked.connect(
             self.pushButton_IndexConfirm_Clicked
         )
+        self.pushButton_ShowLegends.clicked.connect(self.pushButton_ShowLegends_Clicked)
 
         # CREAET FIG, CANVAS, AXES
         self.fig_raw, self.canvas_raw, self.ax_raw = self.create_canvas(
@@ -79,6 +84,9 @@ class MainWindow(Window):
         ) = self.create_canvas(self.verticalLayout_ECGDelineate)
 
     def display_graph_features(self):
+        # SHOW LEGENDS BUTTON
+        self.pushButton_ShowLegends.show()
+
         # SHOW COMPUTED SAMPLING RATE
         self.lineEdit_SamplingRate.setText(str(self.sampling_rate))
 
@@ -88,7 +96,9 @@ class MainWindow(Window):
         # SHOW GRAPH
         self.ECG_SIGNAL.ecg_raw_plot(self.ecg_raw, self.ax_raw)
         self.canvas_raw.draw()
-        self.ECG_SIGNAL.ecg_cleaned_plot(self.ax_cleaned)
+        self.ECG_SIGNAL.ecg_cleaned_plot(
+            self.ax_cleaned, is_show_legends=self.is_show_legends
+        )
         self.canvas_cleaned.draw()
         self.ECG_SIGNAL.ecg_delineate_plot(self.ax_delineate)
         self.canvas_delineate.draw()
@@ -236,6 +246,9 @@ class MainWindow(Window):
         self.plainTextEdit_Findings.setPlainText(FINDINGS)
 
     def reset_graph(self):
+        # SHOW LEGENDS BUTTON
+        self.pushButton_ShowLegends.hide()
+
         # FIG RAW
         self.fig_raw.clf()
         self.ax_raw = self.fig_raw.add_subplot(111)
@@ -251,6 +264,31 @@ class MainWindow(Window):
         self.ax_delineate = self.fig_delineate.add_subplot(111)
         self.fig_delineate.tight_layout()
         self.canvas_delineate.draw()
+
+    def pushButton_ShowLegends_Clicked(self):
+        # LEGENDS SHOW
+        pushButtonText = self.pushButton_ShowLegends.text()
+        if "SHOW" in pushButtonText:
+            self.pushButton_ShowLegends.setText("HIDE LEGENDS")
+            self.is_show_legends = True
+        else:
+            self.pushButton_ShowLegends.setText("SHOW LEGENDS")
+            self.is_show_legends = False
+
+        # FIG CLEANED
+        self.fig_cleaned.clf()
+        self.ax_cleaned = self.fig_cleaned.add_subplot(111)
+        self.fig_cleaned.tight_layout()
+        self.canvas_cleaned.draw()
+
+        # PROCESS THE RAW ECG DATA
+        self.ECG_SIGNAL = ECG(self.ecg_raw, sampling_rate=self.sampling_rate)
+
+        # SHOW GRAPH
+        self.ECG_SIGNAL.ecg_cleaned_plot(
+            self.ax_cleaned, is_show_legends=self.is_show_legends
+        )
+        self.canvas_cleaned.draw()
 
     def pushButton_IndexConfirm_Clicked(self):
         # INDEX THE SAMPLE | TO REMOVE THE NOISY PART
