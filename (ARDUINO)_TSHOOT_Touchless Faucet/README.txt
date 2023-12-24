@@ -1,1 +1,1 @@
-Project troubleshooting all done in the client side.
+A touchless faucet system wherein I troubleshoot the issue of an Arduino code.

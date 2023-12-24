@@ -1,1 +1,0 @@
-Project troubleshooting all done in the client side.
