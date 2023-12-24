@@ -1,0 +1,1 @@
+The primary purpose of the study is to create a prototype wireless-automated water irrigation that monitors soil moisture and solar radiance powered by a solar panel and a battery and to maximize the plant growth.
