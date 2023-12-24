@@ -1,0 +1,1 @@
+The main objective of the study is to monitor maritime traffic through AIS data streams and provide trajectory prediction and detect whether or not vessels are out of its suggested route using an artificial neural network.
