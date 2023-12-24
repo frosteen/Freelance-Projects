@@ -1,0 +1,1 @@
+The general objective of this research is to develop and apply the Internet of Things to the transportation sector particularly on traffic management by forecasting the traffic flow utilizing Internet of Things.

@@ -1,0 +1,1 @@
+The study’s main objective is to create a system that tests three visual parameters: visual acuity, contrast sensitivity and color vision with the implementation of speech recognition for visual acuity and contrast sensitivity testing.
