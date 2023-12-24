@@ -1,0 +1,1 @@
+The general objective of this research is to be able to make use of the LoRa’s technology capability to transmit sensor data in a long range making a bidirectional communication system for a remotely deployed weather station and a main receiver hub located at a more urbanized location.

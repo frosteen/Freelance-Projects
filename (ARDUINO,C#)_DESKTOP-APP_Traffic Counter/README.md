@@ -1,1 +1,1 @@
-A prototype that counts number of vehicles on a specific road using piezo electric sensor.
+An electronic prototype that counts the number of vehicles on a specific road using piezo electric sensor.
