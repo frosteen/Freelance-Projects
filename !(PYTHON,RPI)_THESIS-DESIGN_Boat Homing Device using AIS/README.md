@@ -1,0 +1,1 @@
+This study aims to develop a homing device for fishing boats using Automatic Identification System (AIS) technology. The specific objectives are (1) to implement the functions of an AIS in an embedded system, (2) to develop a collision warning notification in an AIS device, and (3) to enhance the AIS operation by incorporating a homing feature.
