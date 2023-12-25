@@ -31,6 +31,6 @@
 **/*.exe
 
 # Don't include Sub Github Repos
-(PYTHON)_THESIS-DESIGN_American Sign Language Interpreter using an RGB-D camera and Machine Learning/From_Github/ActionDetectionforSignLanguage
-(PYTHON)_THESIS-DESIGN_American Sign Language Interpreter using an RGB-D camera and Machine Learning/From_Github/Gesture-Recognition-with-3DCNN
+(PYTHON,AI)_THESIS-DESIGN_American Sign Language Interpreter using an RGB-D camera and Machine Learning/From_Github/ActionDetectionforSignLanguage
+(PYTHON,AI)_THESIS-DESIGN_American Sign Language Interpreter using an RGB-D camera and Machine Learning/From_Github/Gesture-Recognition-with-3DCNN
 (PYTHON,RPI,ANDROID APP)_ELECTRONICS-DESIGN_IOT, GSM And RFID-Based Faculty Managing System With PIR Sensor And Touch Screen Monitor/SPI-Py
