@@ -1,0 +1,1 @@
+To enable people to compete with one another by promoting a healthy lifestyle of Walking.
