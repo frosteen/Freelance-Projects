@@ -1,0 +1,1 @@
+A crypto trading monitor that fetches trading coin klines data via binance api. A personal private project [FOR VIEWING ONLY].
