@@ -1,1 +1,1 @@
-A crypto trading monitor built with Python and PyQt5 that identifies higher lows and higher highs and vice-versa and fetches trading coin klines data via binance api. A personal private project [FOR VIEWING ONLY].
+A crypto trading monitor built with Python that retrieves trading coin klines data via the Binance API to identify higher lows and higher highs and vice versa. This is a personal private project intended for viewing purposes only.
